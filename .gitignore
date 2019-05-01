@@ -1,4 +1,4 @@
-# Editor
+# System
 .DS_Store
 .DS_Store?
 ._*
@@ -11,6 +11,10 @@ ehthumbs.db
 # Editor
 .vscode
 
-# npm
+# Node
 node_modules
 npm-debug.log
+
+# Parcel
+.cache
+dist
